@@ -14,8 +14,11 @@ Prepare your data in CSV format and upload into a `data.csv` file. Place labels 
 
 | district  | nonlearner | learner |
 |-----------|------------|---------|
-| Hartford  | 15656      | 4111    |
-| New Haven | 17730      | 3534    |
+| studying  | 20      | 5    |
+| working| 10    | 5  |
+| Gaming |8|0
+| Exercise | 5 | 0 |
+| Sleep | 50 | 0 |
 
 In `script.js`, customize the values of variables shown in the code snippet below:
 
